@@ -46,6 +46,9 @@
     <property name="ToolWindowMessages.ShowToolbar" value="false" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.saveactions" />
   </component>
   <component name="RunManager">
@@ -69,6 +72,10 @@
     </todo-panel>
   </component>
   <component name="WindowStateProjectService">
+    <state x="651" y="179" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1602451736988">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state x="651" y="179" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/43.23.1397.877@43.23.1397.877" timestamp="1602451736988" />
     <state width="1180" height="247" key="GridCell.Tab.0.bottom" timestamp="1602343982526">
       <screen x="44" y="23" width="1396" height="877" />
     </state>
@@ -85,5 +92,9 @@
       <screen x="44" y="23" width="1396" height="877" />
     </state>
     <state width="1180" height="247" key="GridCell.Tab.0.right/44.23.1396.877@44.23.1396.877" timestamp="1602343982526" />
+    <state x="301" y="43" key="SettingsEditor" timestamp="1602451952800">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state x="301" y="43" key="SettingsEditor/43.23.1397.877@43.23.1397.877" timestamp="1602451952800" />
   </component>
 </project>
